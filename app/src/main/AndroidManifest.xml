@@ -27,6 +27,37 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".SimpleTextActivity" />
+        <activity android:name=".TextStylingActivity" />
+        <activity android:name=".TextFieldActivity" />
+        <activity android:name=".SimplePreviewActivity" />
+        <activity android:name=".PreviewParameterActivity" />
+        <activity android:name=".ColumnActivity" />
+        <activity android:name=".ScrollableColumnActivity" />
+        <activity android:name=".LazyColumnActivity" />
+        <activity android:name=".RowActivity" />
+        <activity android:name=".ScrollableRowActivity" />
+        <activity android:name=".LazyRowActivity" />
+        <activity android:name=".BoxActivity" />
+        <activity android:name=".StackActivity" />
+        <activity android:name=".ConstraintLayoutActivity" />
+        <activity android:name=".MaterialButtonActivity" />
+        <activity android:name=".CardExampleActivity" />
+        <activity android:name=".ClickableExampleActivity" />
+        <activity android:name=".ImageActivity" />
+        <activity android:name=".AlertDialogActivity" />
+        <activity android:name=".SingleChoiceDialogActivity" />
+        <activity android:name=".MaterialAppBarActivity" />
+        <activity android:name=".MaterialBottomNavigationActivity" />
+        <activity android:name=".MaterialCheckBoxActivity" />
+        <activity android:name=".MaterialProgressActivity" />
+        <activity android:name=".MaterialRadioButtonActivity" />
+        <activity android:name=".MaterialSliderActivity" />
+        <activity android:name=".MaterialSnackbarActivity" />
+        <activity android:name=".MaterialSwitchActivity" />
+        <activity android:name=".CustomViewActivity" />
+        <activity android:name=".CrossFadeAnimationActivity" />
+        <activity android:name=".ShapeRotationActivity" />
     </application>
 
 </manifest>
